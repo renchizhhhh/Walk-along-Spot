@@ -60,6 +60,13 @@ The paper accompanying this repository provides a detailed analysis of the exper
 
 For any questions or further information, please leave an issue and I will try to help! This will help people facing the same questions in the future. 
 
----
+## License
 
-This README provides an overview of the repository and its submodules necessary for replicating the hands-free mobile robot control experiment. Follow the setup instructions in each submodule's README for a successful replication of the study.
+This project is released under a [MIT License](#license). Feel free to use, modify, and distribute any of the contents of this repository in accordance with the license specifications.
+
+We hope the OpenChessRobot serves as a valuable tool for your research and development in human-robot interaction. Happy experimenting!
+
+## Copyright Notice:
+Technische Universiteit Delft hereby disclaims all copyright interest in the program “OpenChessBot: An Open-Source Reproducible Chess Robot for Human-Robot Interaction Research” written by the Author(s). 
+
+© 2024, [Renchi Zhang], [Paper_to_add]
