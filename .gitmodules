@@ -1,0 +1,6 @@
+[submodule "unity"]
+	path = unity
+	url = https://github.com/Jesse-vd-Linden/Unity-MRTK-ROS-Spot-NUI.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/Jesse-vd-Linden/SpotDockerImage.git
