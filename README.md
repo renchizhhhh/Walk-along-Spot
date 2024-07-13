@@ -58,7 +58,7 @@ The paper accompanying this repository provides a detailed analysis of the exper
 
 ## Contact
 
-For any questions or further information, please contact [Author's Name] at [Author's Email].
+For any questions or further information, please leave an issue and I will try to help! This will help people facing the same questions in the future. 
 
 ---
 
