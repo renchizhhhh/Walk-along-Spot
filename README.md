@@ -64,8 +64,6 @@ For any questions or further information, please leave an issue and I will try t
 
 This project is released under a [MIT License](#license). Feel free to use, modify, and distribute any of the contents of this repository in accordance with the license specifications.
 
-We hope the OpenChessRobot serves as a valuable tool for your research and development in human-robot interaction. Happy experimenting!
-
 ## Copyright Notice:
 Technische Universiteit Delft hereby disclaims all copyright interest in the program “Walk along: An experiment on voice and gesture control for the mobile robot ‘Spot’” written by the Author(s). 
 
